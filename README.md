@@ -1,2 +1,2 @@
-# bingebase
-BingeBase is an movies, series database site.
+## BingeBase
+Powered by Data. Driven by Stories.
